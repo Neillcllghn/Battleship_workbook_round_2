@@ -34,7 +34,7 @@ def validate_username(values):
     elif any(char.isnumeric() for char in values):
         print(f"the username {values} cannot be used, please don't use numbers.")
         return False
-    elif not any(char.isalnum() for char in values):
+    elif not values.isalnum():
         print(f"the username {values} cannot be used, please don't use non-alphabetic characters.")
         return False
 
