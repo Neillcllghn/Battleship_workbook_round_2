@@ -41,7 +41,7 @@ Ships are denoted as ‘X’ and misses are denoted as ’-‘.
 
 # Testing:
 I have manually tested this project by doing the following:
-- Passed the code through a Code Institute PEP8 linter and confirm that there are no major problems.
+- Passed the code through a Code Institute PEP8 linter and confirm that there are no errors.
 - Given invalid inputs: entering special characters and numbers when it should only be letters, out of bounds inputs, same input twice etc.
 - Tested in my local terminal and the Code Institute Heroku terminal.
 
@@ -54,7 +54,7 @@ I have manually tested this project by doing the following:
 
 # Validator Testing:
 - PEP8:
- - No major errors were returned from the Code Institute PEP8 linter.
+ - No errors were returned from the Code Institute PEP8 linter.
 
 # Deployment
 This project was deployed using Code Institute’s mock terminal for Heroku.
