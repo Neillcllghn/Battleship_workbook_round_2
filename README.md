@@ -2,6 +2,7 @@
 Battleship Madness is a Python terminal game, which runs in the Code Institute mock terminal on Heroku.
 It is a single player-based game in which the player can select the number of ships they wish to sink and the number of turns the player wants to have. The player has x number of turns (selected by the player) to sink all the ships before the game ends and the player either wins (hits all the ships) or loses.
 
+image.png
 
 # How to play.
 Battleship Madness is based on the classic pen-and-paper game. You can read more about it on [Wikipedia](https://en.wikipedia.org/wiki/Battleship_(game)).
